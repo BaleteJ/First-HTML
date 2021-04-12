@@ -1,0 +1,139 @@
+body
+{
+    border: 1px solid black;
+}
+
+#MainHeader
+{
+    text-align: center;
+    border: 2px solid black;
+    
+}
+
+#MainNav
+{
+    border: 2px solid grey;
+}
+
+.Left
+{
+    float: left;
+    text-align: center;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border: 5px solid red;
+    justify-content: center;
+    display: block;
+    margin-bottom: 10px;
+    
+}
+
+#LeftHeader
+{
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border: 3px solid black; 
+    margin-bottom: 10px;
+}
+
+#LeftNav
+{
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    height: 25vh;
+    border: 3px solid grey;
+    margin-bottom: 10px;
+}
+
+#LeftFooter
+{    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border: 3px solid brown;
+    margin-bottom: 10px;
+}
+
+.Right
+{
+    float: right;
+    text-align: center;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border: 5px solid blue;
+    justify-content: center;
+    
+}
+
+.Section.Header
+{   
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: 3px solid blue;
+    margin-bottom: 10px;
+}
+
+.Article.One
+{
+    border: 3px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.Article.Two
+{
+    border: 3px solid grey;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.Article.Two.P1
+{
+    height: 20px;
+    margin-right: 10px;
+}
+
+.Article.Two.Aside
+{
+    height: 20px;
+    
+}
+
+.Article.Two.Right.Footer
+{
+    clear: both;
+}
+
+.Right.Footer
+{
+    border: 3px solid brown;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#LastFooter
+{
+    clear: both;
+    text-align: center;
+}
