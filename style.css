@@ -1,4 +1,4 @@
-body
+/* body
 {
     border: 1px solid black;
 }
@@ -136,4 +136,177 @@ body
 {
     clear: both;
     text-align: center;
+} */
+
+/* ========================================================================================= */
+
+body
+{
+    text-align: center;
+    border: 5px solid black;
+    background-color: gray;
+    padding: 10px;
+    width: 50%;
+    
+}
+
+#mainHeader
+{
+    border: 3px solid black;
+    background-color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+#mainNav
+{
+    border: 2px solid black;
+    background-color: gray;
+    padding: 10px;
+}
+
+#S-L
+{
+    display: inline-flex;
+    flex-direction: column;
+    border: 3px solid black;
+    background-color: white;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#S-L-Header
+{
+    border: 2px solid black;
+    background-color: gray;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#S-L-Nav
+{
+    border: 2px solid black;
+    background-color: gray;
+    padding: 200px 40px;
+    margin-top: 20px;
+}
+
+#S-L-Footer
+{
+    border: 2px solid black;
+    background-color: gray;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#S-R
+{
+    display: inline-flex;
+    flex-direction: column;
+    border: 3px solid black;
+    background-color: white;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#S-R-Header
+{
+    border: 2px solid black;
+    background-color: gray;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#S-R-Art1
+{
+    border: 2px solid black;
+    background-color: gray;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#S-R-Art1-P1
+{
+    border: 2px solid black;
+    background-color: white;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#S-R-Art1-P2
+{
+    border: 2px solid black;
+    background-color: white;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#S-R-Art1-Footer
+{
+    border: 2px solid black;
+    background-color: white;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#S-R-Art2
+{
+    border: 2px solid black;
+    background-color: gray;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#S-R-Art2-Header
+{
+    border: 2px solid black;
+    background-color: white;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#S-R-Art2-P
+{
+    display: inline-flex;
+    border: 2px solid black;
+    background-color: white;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#S-R-Art2-Aside
+{
+    display: inline-flex;
+    border: 2px solid black;
+    background-color: white;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#S-R-Art2-Footer
+{
+    border: 2px solid black;
+    background-color: white;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#S-R-Footer
+{
+    border: 2px solid black;
+    background-color: gray;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#mainFooter
+{
+    border: 3px solid black;
+    background-color: white;
+    padding: 10px;
+    margin-top: 20px;
 }
